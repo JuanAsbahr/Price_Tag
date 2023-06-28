@@ -21,7 +21,7 @@ namespace Price_Tag.Entities
                 + Price.ToString("F2", CultureInfo.InvariantCulture)
                 + ", (Manufacture date: "
                 + ManufactureDate.ToString("dd/MM/yyyy")
-                + ")";
+                + ").";
         }
     }
 }

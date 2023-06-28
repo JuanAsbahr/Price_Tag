@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\bin\Debug\net7.0\Price_Tag.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\bin\Debug\net7.0\Price_Tag.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\bin\Debug\net7.0\Price_Tag.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\bin\Debug\net7.0\Price_Tag.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\bin\Debug\net7.0\Price_Tag.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\refint\Price_Tag.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\Price_Tag.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Price_Tag\obj\Debug\net7.0\ref\Price_Tag.dll
